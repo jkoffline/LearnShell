@@ -6,7 +6,7 @@ echo "A example for expect"
 
 expect -c "
     set timeout 60;
-    spawn scp -r myiso.iso root@10.0.105.111:/root
+    spawn scp -r expect_9.sh root@localhost:/root
     expect {
         \"yes/no\" {
             send \"yes\n\"

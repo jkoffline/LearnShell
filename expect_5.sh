@@ -2,7 +2,7 @@
 
 set timeout 30
 
-spawn ssh -l root 10.0.105.111
+spawn ssh -l root localhost
 expect "password:"
 send "ChangeMe\n"
 send "exit\n"

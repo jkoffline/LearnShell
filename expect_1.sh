@@ -1,15 +1,17 @@
 #!/bin/bash
 
-echo "Karl.Lv@emc.com"
+# Karl.Lv@outlook.com
+
+echo "Karl.Lv@outlook.com"
 
 echo "A example for expect"
 
-mypassword="v3r0n@"
+mypassword="ChangeMe"
 mylog=mylog
 echo $mypassword
 
 expect<<-END
-    spawn ssh root@10.0.104.21
+    spawn ssh root@localhost
     expect "assword:"
     send "$mypassword\n"
     expect "#"

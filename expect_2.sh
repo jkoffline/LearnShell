@@ -1,5 +1,8 @@
 #!/usr/bin/expect -f
 
+# 21 June, 2017
+# Karl.Lv@outlook.coom
+
 set ipaddress [lindex $argv 0]
 set username [lindex $argv 1]
 set password [lindex $argv 2]

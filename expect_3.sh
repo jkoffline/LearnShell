@@ -4,11 +4,11 @@ echo "Karl.Lv@emc.com"
 
 echo "A example for expect"
 
-mypassword="v3r0n@"
+mypassword="ChangeMe"
 echo $mypassword
 
 expect -c "
-    spawn ssh root@10.0.104.21
+    spawn ssh root@localhost
     expect {
         \"yes/no\" {
             send \"yes\n\"
@@ -24,7 +24,7 @@ expect -c "
             exit 2
         }
     }
-     
+
     send "date\\n"
     send "ifconfig\\n"
     expect eof
