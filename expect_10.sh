@@ -1,6 +1,8 @@
 #!/bin/bash
 
 # 21 June, 2017
+# Karl.Lv@outlook.com
+
 echo "karl.lv@outlook.com"
 
 echo "A example for expect"
