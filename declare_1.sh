@@ -1,6 +1,5 @@
 #!/bin/bash
-# Karl.Lv@dextrys.com
-# Karl.Lv@126.com
+# KarlLv@126.com
 # 24 March, 2016
 # The usage of declare
 

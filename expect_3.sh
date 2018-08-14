@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Karl.Lv@emc.com"
+echo "Karl.Lv@outlook.com"
 
 echo "A example for expect"
 

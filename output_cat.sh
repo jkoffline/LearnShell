@@ -1,7 +1,5 @@
 #!/usr/bin/sh
 # March 10, 2016
-# Karl.Lv@dextrys.com
-# Karl.Lv@emc.com
 # KarlLv@126.com
 # Suzhou, Jiangsu
 

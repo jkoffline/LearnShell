@@ -1,4 +1,6 @@
 #!/usr/bin/expect
+#
+# Karl.Lv@outlook.com
 
 set timeout 30
 

@@ -1,5 +1,5 @@
 #!/bin/bash
-# Karl.Lv@dextrys.com
+#
 # KarlLv@126.com
 # 14 March, 2016
 # Reaing lines in /etc/fstab
