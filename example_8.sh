@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 #
 # August 15, 2018
 # Karl.Lv@outlook.com
